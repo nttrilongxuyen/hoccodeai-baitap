@@ -11,7 +11,7 @@ client = Together(
 )
 context = []
 
-modeld="meta-llama/Llama-3.3-70B-Instruct-Turbo"
+modeld="meta-llama/Llama-3.3-70B-Instruct-Turbo-Free"
 input_messages=[]
 
 while(True):
